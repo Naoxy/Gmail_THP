@@ -1,24 +1,10 @@
-# README
+<h1 align="center">Welcome to todolist-app 👋</h1>
+<p>
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Show your support
 
-Things you may want to cover:
+Give a ⭐️ if this project helped you!
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
