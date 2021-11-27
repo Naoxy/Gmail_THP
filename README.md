@@ -1,14 +1,14 @@
 <h1 align="center">Welcome to Gmail_THP 👋</h1>
 <p>
+  <img alt="Version" src="https://img.shields.io/badge/version-ruby 2.7.4 rails 5.2.3-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
-    <img alt="License: Naoxy" src="https://img.shields.io/badge/License-Naoxy-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/Naoxy" target="_blank">
-    <img alt="Twitter: Naoxy" src="https://img.shields.io/twitter/follow/Naoxy.svg?style=social" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-> Project Gmail_THP
+> Project_Gmail_THP
+
+### 🏠 [Homepage](Mail)
 
 ## Install
 
@@ -20,8 +20,6 @@ bundle install
 
 👤 **Naoxy**
 
-* Website: Naoxy
-* Twitter: [@Naoxy](https://twitter.com/Naoxy)
 * Github: [@Naoxy](https://github.com/Naoxy)
 
 ## Show your support
